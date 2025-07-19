@@ -1,6 +1,6 @@
 # Hackpad
 
-A custom mechanical keypad/macropad built with RP2040 microcontroller featuring 6 Cherry MX switches, a rotary encoder and a OLED. My first ever Hardware project!
+A custom mechanical keypad/macropad built with RP2040 microcontroller featuring 9 Cherry MX switches, a rotary encoder and a OLED. My first ever Hardware project!
 
 ## Overview
 
