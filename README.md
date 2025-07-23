@@ -1,5 +1,10 @@
-# Hackpad
-
+<div align="center">
+  <a href="https://hackclub.com/highway">
+    <img alt="Funded by Hack Club" src="https://img.shields.io/badge/Hack_Club-Funded-ec3750?style=for-the-badge&logo=hackclub&logoColor=ec3750"></img>
+  </a>
+  
+<h1>Hackpad</h1>
+</div>
 A custom mechanical keypad/macropad built with RP2040 microcontroller featuring 9 Cherry MX switches, a rotary encoder and a OLED. My first ever Hardware project!
 
 ## Overview
